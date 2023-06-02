@@ -3,7 +3,7 @@
 This is my implementation of [Free Code Camp's](https://www.freecodecamp.org/) Build a Random Quote Machine project.
 This project is created using React.
 
-[view in browser](https://hanny21.github.io/random_quote_machine/)
+[view in browser](https://hankadev.github.io/random_quote_machine/)
 
 ## Objective
 
